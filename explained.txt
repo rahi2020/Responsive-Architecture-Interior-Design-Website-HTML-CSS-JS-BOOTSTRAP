@@ -1,0 +1,20 @@
+the main features of this website are:
+✅ responsive header / navbar section with toggle menu bar effect.
+✅ responsive home section with counting effect using only jquery.
+✅ responsive about section
+✅ responsive service section
+✅ responsive project section with image lightbox gallery effect.
+✅ responsive contact section
+✅ responsive footer section.
+
+TIMESTAMP:
+0:00​ demo
+4:30​ file setup
+5:56​ header section
+14:57​ home section
+22:44​ about section
+27:59​ service section
+31:11​ project / gallery section
+37:14​ contact section
+44:34​ footer section
+51:13​ mobile first
